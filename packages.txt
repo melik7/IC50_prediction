@@ -1,2 +1,0 @@
-rdkit-pypi
-libxrender1
