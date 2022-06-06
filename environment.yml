@@ -1,0 +1,15 @@
+name: my-rdkit-env
+dependencies:
+  - pillow=8.4.0=py39h916092e_0
+  - rdkit=2021.09.4=py39hfadf033_0
+  - pip=21.3.1=pyhd8ed1ab_0
+  - pip:
+    - deepchem==2.5.0
+    - h5py==3.6.0
+    - mol2vec==0.1
+    - mordred==1.2.0
+    - plotly==5.7.0
+    - scikit-learn==1.0.2
+    - streamlit==1.9.0
+    - tqdm==4.62.3
+prefix: C:\Users\melik\anaconda3\envs\my-rdkit-env
